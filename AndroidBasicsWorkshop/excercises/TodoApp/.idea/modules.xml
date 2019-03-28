@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_listview/01_listview.iml" filepath="$PROJECT_DIR$/01_listview/01_listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_custom_listview/02_custom_listview.iml" filepath="$PROJECT_DIR$/02_custom_listview/02_custom_listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_recycler_view/03_recycler_view.iml" filepath="$PROJECT_DIR$/03_recycler_view/03_recycler_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_fragments/04_fragments.iml" filepath="$PROJECT_DIR$/04_fragments/04_fragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_view_model/05_view_model.iml" filepath="$PROJECT_DIR$/05_view_model/05_view_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_navigation/06_navigation.iml" filepath="$PROJECT_DIR$/06_navigation/06_navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_backend/07_backend.iml" filepath="$PROJECT_DIR$/07_backend/07_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_worker/08_worker.iml" filepath="$PROJECT_DIR$/08_worker/08_worker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodoApp.iml" filepath="$PROJECT_DIR$/TodoApp.iml" />
+    </modules>
+  </component>
+</project>

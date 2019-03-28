@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/refresh"
+        android:checkable="false"
+        android:title="Refresh"
+        android:icon="@drawable/ic_refresh"
+        android:visible="true"
+        android:showAsAction="always" />
+
+    <item
+        android:id="@+id/settings"
+        android:checkable="false"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"
+        android:visible="true"
+        android:showAsAction="never" />
+</menu>

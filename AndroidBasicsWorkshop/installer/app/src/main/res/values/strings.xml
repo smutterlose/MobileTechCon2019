@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidWorkshop</string>
+    <string name="txt_conference_title">MobileTech Conference</string>
+    <string name="txt_welcome">Willkommen beim Android Workshop.\n\nGlückwunsch, Du hast die Installaton erfolgreich abgeschlossen.\n\nViel Spaß wünschen\n\nLars, Pierre und \ndas Mobile-Team von ...</string>
+    <string name="txt_powered_by">powered by</string>
+</resources>
